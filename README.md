@@ -1,5 +1,11 @@
 # Text-Classification
 
+
+<figure>
+        <img src="https://thepythoncode.com/media/articles/text-classification-using-tensorflow-in-python.PNG" alt ="Audio Art" style='width:800px;height:500px;'>
+        <figcaption>
+
+
 Text Classification is a fundamental task in Natural Language Processing (NLP) that involves categorizing text into predefined classes. This task is crucial in applications such as sentiment analysis, spam detection, and topic categorization. Text classification typically involves preprocessing text data, encoding it into a numerical format, and then using machine learning models to predict the class of the text.
 
 Key Components of Text Classification:
